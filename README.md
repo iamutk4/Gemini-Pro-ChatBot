@@ -29,6 +29,10 @@ The Gemini Pro ChatBot provides the following features:
    - Provide an input field for users to enter their messages.
    - Send user's message to Gemini Pro AI model and display the response on the Streamlit web interface.
 
+## Screenshot:
+
+![alt text](screenshot1.png)
+
 ## Libraries/Technologies Used:
 
 - **Python Libraries:** python-dotenv==1.0.1, google-generativeai==0.3.2, streamlit==1.30.0
